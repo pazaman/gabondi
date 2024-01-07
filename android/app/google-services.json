@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11383199574",
+    "project_id": "gabondo-67af0",
+    "storage_bucket": "gabondo-67af0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11383199574:android:6015762e894b30464a28f7",
+        "android_client_info": {
+          "package_name": "com.gabondaltd.gabonda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOaXSkvK7mnsQgX8d-4FKr8f3gAAFCZI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
